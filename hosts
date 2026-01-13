@@ -1,0 +1,5 @@
+hosts:
+  - host: host-1         
+    password: "password"
+  - host: host-2        
+    password: "password"
